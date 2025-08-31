@@ -94,14 +94,14 @@ Projemin amacı, şirket için gerçekleştirilen mal alım, zimmet ve hurdaya a
 </details>
 
 <details>
-  <summary>Material Records System / Malzeme Kayıtlar Sistemi</summary>
+  <summary>Material Record System / Malzeme Kayıt Sistemi</summary>
 
   ![Material Records](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/material%20records.png)
 
 </details>
 
 <details>
-  <summary>Material Requests System / Malzeme Talepler Sistemi</summary>
+  <summary>Material Request System / Malzeme Talep Sistemi</summary>
 
   ![Material Requests](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/material%20requests.png)
 
