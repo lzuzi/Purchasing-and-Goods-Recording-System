@@ -1,8 +1,8 @@
 # 📦 Purchasing and Goods Recording System // Satın Alma ve Mal Kayıt Sistemi
 
-⚙️ Program About / Program Hakkında
+### ⚙️ Program About / Program Hakkında
 ---
-### 🌐 English
+🌐 English <br>
 The aim of this project is to monitor the company’s purchasing, debit, and scrap operations.
 
 - Departments can create material requests
@@ -10,9 +10,9 @@ The aim of this project is to monitor the company’s purchasing, debit, and scr
 - Expired materials are scrapped
 - The system generates detailed reports
 
----
+<br>
 
-### 🌐 Türkçe
+🌐 Türkçe <br>
 Projemin amacı, şirket için gerçekleştirilen mal alım, zimmet ve hurdaya ayırma işlemlerinin takibini sağlamaktır.
 
 - Departmanlar ihtiyaçlarına göre malzeme talebi oluşturabilir
@@ -20,10 +20,11 @@ Projemin amacı, şirket için gerçekleştirilen mal alım, zimmet ve hurdaya a
 - Ömrünü dolduran malzemeler hurdaya ayrılır
 - Sistem üzerinden detaylı raporlar alınabilir
 
+<br>
 
-⚙️ Program Details / Program Detayları
+### ⚙️ Program Details / Program Detayları
 ---
-### 🇬🇧 EN  
+🌐 English  
 - **Language:** C# (.NET Core 8)  
   - .NET Core 8 was chosen for a longer lifecycle.  
 - **Database:** MSSQL  
@@ -31,11 +32,11 @@ Projemin amacı, şirket için gerçekleştirilen mal alım, zimmet ve hurdaya a
 - **Authorization:**  
   - 🔑 **Admin:** Full access  
   - 👨‍💼 **Demand Fulfillment User:** Everything except *User & Department Management*  
-  - 📝 **Demand Creation User:** *Material Demand Management* & *Inventory Tracking*  
+  - 📝 **Demand Creation User:** *Material Demand Management* & *Inventory Tracking*
 
----
+<br>
 
-### 🇹🇷 TR  
+🌐 Türkçe 
 - **Dil:** C# (.NET Core 8)  
   - Daha uzun ömürlü olması için .NET Core 8 tercih edildi.  
 - **Veritabanı:** MSSQL  
@@ -43,6 +44,14 @@ Projemin amacı, şirket için gerçekleştirilen mal alım, zimmet ve hurdaya a
 - **Yetkilendirme:**  
   - 🔑 **Admin:** Her şeye erişim  
   - 👨‍💼 **Talep Karşılama Kullanıcısı:** *Kullanıcı Yönetimi* ve *Departman Yönetimi* hariç tüm işlemler  
-  - 📝 **Talep Oluşturma Kullanıcısı:** *Malzeme Talep Yönetimi* ve *Envanter Takibi* 
+  - 📝 **Talep Oluşturma Kullanıcısı:** *Malzeme Talep Yönetimi* ve *Envanter Takibi*
+ 
+<br>
 
-🖼 Screenshots / Görseller
+### 🖼 Screenshots / Görseller
+---
+
+- Login Page / Giriş Sayfası
+![Screenshot1]()
+
+
