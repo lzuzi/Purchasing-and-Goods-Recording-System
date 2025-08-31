@@ -87,28 +87,28 @@ Projemin amacı, şirket için gerçekleştirilen mal alım, zimmet ve hurdaya a
 </details>
 
 <details>
-  <summary>Inventory Tracking System / Envanter Takip Sistemi</summary>
+  <summary>Inventory Tracking System / Envanter Takip Yönetim Sistemi</summary>
 
   ![Inventory Management](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/inventory%20management.png)
 
 </details>
 
 <details>
-  <summary>Material Record System / Malzeme Kayıt Sistemi</summary>
+  <summary>Material Record System / Malzeme Kayıt Yönetim Sistemi</summary>
 
   ![Material Records](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/material%20records.png)
 
 </details>
 
 <details>
-  <summary>Material Request System / Malzeme Talep Sistemi</summary>
+  <summary>Material Request System / Malzeme Talep Yönetim Sistemi</summary>
 
   ![Material Requests](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/material%20requests.png)
 
 </details>
 
 <details>
-  <summary>Supplier Quotes System / Tedarikçi Teklifler Sistemi</summary>
+  <summary>Supplier Quotes System / Tedarikçi Teklifler Yönetim Sistemi</summary>
 
   ![Supplier Quotes](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/supplier%20quotes.png)
 
