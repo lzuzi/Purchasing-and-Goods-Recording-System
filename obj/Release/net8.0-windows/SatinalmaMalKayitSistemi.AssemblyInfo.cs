@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SatinalmaMalKayitSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f1ce2dd30ed4fad21b270ebd8398cb1933ced61")]
 [assembly: System.Reflection.AssemblyProductAttribute("SatinalmaMalKayitSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SatinalmaMalKayitSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
