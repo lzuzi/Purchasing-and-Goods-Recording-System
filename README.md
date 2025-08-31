@@ -87,7 +87,7 @@ Projemin amacı, şirket için gerçekleştirilen mal alım, zimmet ve hurdaya a
 </details>
 
 <details>
-  <summary>Inventory Management System / Envanter Yönetim Sistemi</summary>
+  <summary>Inventory Tracking System / Envanter Takip Sistemi</summary>
 
   ![Inventory Management](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/inventory%20management.png)
 
