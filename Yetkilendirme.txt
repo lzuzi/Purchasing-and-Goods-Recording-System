@@ -1,0 +1,8 @@
+Admin = Her şey
+Talep Karşılama Kullanıcısı = Kullanıcı Yönetim Sistemi ve Departman Yönetim Sistemi hariç her şey.
+Talep Oluşturma Kullanıcısı = Malzeme Talep Yönetim Sistemi, Envanter Takip Yönetim Sistemi
+
+Kullanıcı adı - şifre:
+admin - admin
+talepkarsilama - password
+talepolusturma - password
