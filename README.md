@@ -51,7 +51,89 @@ Projemin amacı, şirket için gerçekleştirilen mal alım, zimmet ve hurdaya a
 ### 🖼 Screenshots / Görseller
 ---
 
-- Login Page / Giriş Sayfası
-![Screenshot1]()
+<details>
+  <summary>Login Page / Giriş Sayfası</summary>
+
+  ![Login Page](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/Login%20Page.png)
+
+</details>
+
+<details>
+  <summary>Main Page / Ana Sayfa</summary>
+
+  ![Main Page](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/Main%20Page.png)
+
+</details>
+
+<details>
+  <summary>User Management System / Kullanıcı Yönetim Sistemi</summary>
+
+  ![User Management](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/user%20management.png)
+
+</details>
+
+<details>
+  <summary>Department Management System / Departman Yönetim Sistemi</summary>
+
+  ![Department Management](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/department%20management.png)
+
+</details>
+
+<details>
+  <summary>Supplier Management System / Tedarikçi Yönetim Sistemi</summary>
+
+  ![Supplier Management](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/supplier%20management.png)
+
+</details>
+
+<details>
+  <summary>Inventory Management System / Envanter Yönetim Sistemi</summary>
+
+  ![Inventory Management](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/inventory%20management.png)
+
+</details>
+
+<details>
+  <summary>Material Records System / Malzeme Kayıtlar Sistemi</summary>
+
+  ![Material Records](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/material%20records.png)
+
+</details>
+
+<details>
+  <summary>Material Requests System / Malzeme Talepler Sistemi</summary>
+
+  ![Material Requests](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/material%20requests.png)
+
+</details>
+
+<details>
+  <summary>Supplier Quotes System / Tedarikçi Teklifler Sistemi</summary>
+
+  ![Supplier Quotes](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/supplier%20quotes.png)
+
+</details>
+
+<details>
+  <summary>Embezzlement Management System / Zimmet Yönetim Sistemi</summary>
+
+  ![Embezzlement Management](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/embezzlement%20management.png)
+
+</details>
+
+<details>
+  <summary>Scrap Management System / Hurda Yönetim Sistemi</summary>
+
+  ![Scrap Management](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/scrap%20management.png)
+
+</details>
+
+<details>
+  <summary>Reporting Management System / Raporlama Yönetim Sistemi</summary>
+
+  ![Reports](https://github.com/lzuzi/Purchasing-and-Goods-Recording-System/blob/main/img/reports.png)
+
+</details>
+
 
 
